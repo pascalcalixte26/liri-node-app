@@ -13,3 +13,5 @@ All in all, I was able to get the commands to update to the log.txt file with th
 ![](gif%20and%20screenshots/LiriNodeJSCapture.JPG)
 
 ![](gif%20and%20screenshots/Log.jpeg)
+
+![](gif%20and%20screenshots/liri_action.gif)
