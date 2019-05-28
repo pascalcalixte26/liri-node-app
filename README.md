@@ -11,3 +11,5 @@ Another command required the Bands in Town api which required I be an artist to 
 All in all, I was able to get the commands to update to the log.txt file with the exceptiion of the read file from random.txt tile.  
 
 ![](gif%20and%20screenshots/LiriNodeJSCapture.JPG)
+
+![](gif%20and%20screenshots/Log.jpeg)
